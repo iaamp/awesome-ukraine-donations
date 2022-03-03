@@ -9,7 +9,9 @@ Listed here are references for both humanitarian and military aid. Please decide
 * [bundesregierung.de - Humanitäre Hilfe für die Menschen aus der Ukraine](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
 
 ## Statements on the KIND of support
-* [mdr.de - recommends finance donations instead of material donations](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
+* [mdr.de - 2022-03-03 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
+    * recommends finance donations instead of material donations
+    * avoid dubious calls for donations in social media
 
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
