@@ -27,7 +27,7 @@ Sections in this list:
     * source: official UK government web presence
 * [gov.uk (2019-08-31) - 'How to give safely to charities'](https://www.gov.uk/government/news/how-to-give-safely-to-charities--2)
     * recommends to check charity's registration
-    * advises to never feel pressured to making a donation immediately
+    * advises to never feel pressured to making a donation immediately (e.g. when asked on the street)
     * source: official UK government web presence
 
 ## Source on the Statements on the KIND of support
@@ -39,6 +39,9 @@ Sections in this list:
     * recommends finance donations instead of material donations
     * source: theconversation.com are 'academics and journalists', based in Australia and other sides around the world
 
+## Open Questions (aka ToDos)
+* Is there an official statement of the Ukranian government on the type of financial help via donations they need?
+
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
 * [NBU Account for Humanitarian Assistance to Ukrainians Affected by Russia's Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
@@ -47,11 +50,14 @@ Sections in this list:
 ## German or germany-based Organizations
 * [tagesschau.de (2022-03-03) 'Hilfe für die Menschen in der Ukraine'](https://www.tagesschau.de/spendenkonten/spendenkonten-133.html)
     * overview of credible humanitarian aid charities
-    * source: 
-    * [Bündnis Entwicklung Hilft](https://entwicklung-hilft.de/) 
+    * among others, they recommend [Bündnis Entwicklung Hilft](https://entwicklung-hilft.de/) and [Aktion Deutschland Hilft](https://www.aktion-deutschland-hilft.de/index.php)
+    * source: Tagesschau is a program of publicly funded ARD TV station
 
 ## Research Organizations
 * [TUM - support program of TUM scholarships for Ukrainians](https://www.tum.de/die-tum/aktuelles/pressemitteilungen/details/37215)
+    * questions --> <solidarity@tum.de>
+    * [more info for international students in Ukraine](https://www.tum.de/studium/internationale-studierende/ukraine)
+    * source: the Technical University of Munich is one of the largest universities in Germany
 
 ## Beschreibung auf deutsch
 Diese Liste dient dazu, einen klaren Überblick zu verschaffen, wie Zivilpersonen die Ukraine und ihre Bürger durch Spenden unterstützen können. Die hier gelisteten Ressourcen sind nach dem besten Wissen der Autoren glaubwürdig. Außer Hilfe für die Ukraine in diesen schwierigen Zeiten wird mit dieser Liste keine weitere Agenda verfolgt.
