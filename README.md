@@ -62,6 +62,13 @@ Here listed are accounts that are explicityly mentioned by an official Ukranian 
     * they call for financial and material (specified equipment, specified medicines) help
     * source: facebook.com/hospitallers, referenced in [r/ukraine/ sticky post](https://www.reddit.com/r/ukraine/comments/t5okbs/welcome_to_rukraine_faq_do_dont_support_read/)
 
+## International Organizations
+* [UN Crisis Relief](https://crisisrelief.un.org/about)
+    * [call for donations for help of civilians in Ukraine](https://crisisrelief.un.org/ukraine-crisis)
+    * source: the UN Crisis Relief is run by the [United Nations Office for the Coordination of Humanitarian Affairs (OCHA)](https://en.wikipedia.org/wiki/United_Nations_Office_for_the_Coordination_of_Humanitarian_Affairs), which was founded in 1991
+* [UNICEF]()
+    * [call for donations to help children in Ukraine ](https://www.unicef.de/informieren/projekte/europa-1442/ukraine-19470/ukraine-konflikt/262866?utm_source=son_uniceforg&utm_medium=webli_es&utm_campaign=202202_uniceforg_emg_webli_es_ukraine&utm_content=202202_ukraine&utm_term=perf)
+    * source: the [United Nations Children's Fund (UNICEF)](https://en.wikipedia.org/wiki/UNICEF) is helping children all over the world since 1946
 ## German or germany-based Organizations
 * [tagesschau.de (2022-03-03) 'Hilfe für die Menschen in der Ukraine'](https://www.tagesschau.de/spendenkonten/spendenkonten-133.html)
     * overview of credible humanitarian aid charities
