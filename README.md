@@ -4,6 +4,10 @@ The purpose of this list is to give clear overview how civilians from Germany an
 Listed here are references for both humanitarian and military aid, as well as general information on how to support. Please decide for yourself how you wish to support. This list is of informatory purpose alone, no intention of incending a debate on the kind of support is intended here.
 
 [--> Beschreibung der Liste auf deutsch](#beschreibung-auf-deutsch)
+[--> Guidelines on HOW to support](#guidelines-on-how-to-support)
+[--> Statements on the KIND of support](#statements-on-the-kind-of-support)
+[--> Official Ukrainian Organizations](#official-ukrainian-organizations)
+[--> Research Organizations](#research-organizations)
 
 ## Guidelines on HOW to support
 * [bundesregierung.de - 'Humanitäre Hilfe für die Menschen aus der Ukraine' (2022-02-28)](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
