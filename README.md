@@ -18,6 +18,9 @@ Listed here are references for both humanitarian and military aid. Please decide
 * [NBU Account for Humanitarian Assistance to Ukrainians Affected by Russia's Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 * [NBU Account for Ukraine's Armed Forces](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
 
+## Research Organizations
+* [TUM - support program of TUM scholarships for Ukrainians](https://www.tum.de/die-tum/aktuelles/pressemitteilungen/details/37215)
+
 ## Beschreibung auf deutsch
 Diese Liste dient dazu, einen klaren Überblick zu verschaffen, wie Zivilpersonen die Ukraine und ihre Bürger durch Spenden unterstützen können. Die hier gelisteten Ressourcen sind nach dem besten Wissen der Autoren glaubwürdig. Außer Hilfe für die Ukraine in diesen schwierigen Zeiten wird mit dieser Liste keine weitere Agenda verfolgt.
 
