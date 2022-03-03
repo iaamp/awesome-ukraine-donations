@@ -40,7 +40,7 @@ Sections in this list:
     * source: theconversation.com are 'academics and journalists', based in Australia and other sides around the world
 
 ## Open Questions (aka ToDos)
-* Is there an official statement of the Ukranian government on the type of financial help via donations they need?
+* Is there an official statement of the Ukranian government on the type of help via donations they need?
 
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
