@@ -8,14 +8,15 @@ Listed here are references for both humanitarian and military aid, as well as ge
 #### What kind of support is needed now?
 State: 2022-03-03 
 It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now, the *on-site charities* can buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.
-[--> Here the sources on the 'Statements on the KIND of support'](#statements-on-the-kind-of-support)\\
+[--> Here the sources on the 'Statements on the KIND of support'](#statements-on-the-kind-of-support)  
 
 ---
-[--> Beschreibung der Liste auf deutsch](#beschreibung-auf-deutsch)\\
-[--> Guidelines on HOW to support](#guidelines-on-how-to-support)\\
-[--> Statements on the KIND of support](#statements-on-the-kind-of-support)\\
-[--> Official Ukrainian Organizations](#official-ukrainian-organizations)\\
-[--> Research Organizations](#research-organizations)\\
+Sections in this list:  
+[--> Beschreibung der Liste auf deutsch](#beschreibung-auf-deutsch)  
+[--> Guidelines on HOW to support](#guidelines-on-how-to-support)  
+[--> Statements on the KIND of support](#statements-on-the-kind-of-support)  
+[--> Official Ukrainian Organizations](#official-ukrainian-organizations)  
+[--> Research Organizations](#research-organizations)  
 
 ## Guidelines on HOW to support
 * [bundesregierung.de (2022-02-28) - 'Humanitäre Hilfe für die Menschen aus der Ukraine'](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
