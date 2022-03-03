@@ -19,3 +19,4 @@ Diese Liste dient dazu, einen klaren Überblick zu verschaffen, wie Zivilpersone
 
 ## Related resources
 * [dkuznetsov/help-ukraine](https://github.com/dkuznetsov/help-ukraine) - A Curated List of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine. Very similar to this list. Please take a look.
+* [bgruening/awesome-ukraine-support](https://github.com/bgruening/awesome-ukraine-support) - A list of resources and initiative to help the Ukraine. Similar list, focused not only on donations but also other resources are given.
