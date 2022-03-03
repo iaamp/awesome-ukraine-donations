@@ -1,5 +1,5 @@
 # A curated list of donation opportunities and guidelines for Ukraine.
-The purpose of this list is to give clear overview how civilians from Germany and all over the world can support Ukraine via donations. The resources here are credible to the best knowledge of the authors. No other agenda than helping Ukraine in this troubled times is pursuit with this document. As of now (2022-03-03) written from german perspective.
+The purpose of this list is to give a clear overview on how civilians from Germany and all over the world can support Ukraine via donations. The resources here are credible to the best knowledge of the authors. No other agenda than helping Ukraine in this troubled times is pursuit with this document. As of now (2022-03-03) written from german perspective.
 
 Listed here are references for both humanitarian and military aid, as well as general information on how to support. Please decide for yourself how you wish to support. This list is of informatory purpose alone, no intention of incending a debate on the kind of support is intended here.
 
@@ -7,7 +7,7 @@ Listed here are references for both humanitarian and military aid, as well as ge
 
 #### What kind of support is needed now?
 State: 2022-03-03 
-It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now, the *on-site charities* can buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.
+It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now (2022-03-03), the *on-site charities* can still buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.
 [--> Here the sources on the 'Statements on the KIND of support'](#statements-on-the-kind-of-support)  
 
 ---
@@ -25,6 +25,10 @@ Sections in this list:
 * [gov.uk (2022-03-02) - 'Regulators urge safe giving to support Ukraine'](https://www.gov.uk/government/news/regulators-urge-safe-giving-to-support-ukraine)
     * recommends to check charities credibility on [official UK government website](https://www.gov.uk/find-charity-information)
     * source: official UK government web presence
+* [gov.uk (2019-08-31) - 'How to give safely to charities'](https://www.gov.uk/government/news/how-to-give-safely-to-charities--2)
+    * recommends to check charity's registration
+    * advises to never feel pressured to making a donation immediately
+    * source: official UK government web presence
 
 ## Source on the Statements on the KIND of support
 * [mdr.de (2022-03-03) - 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
@@ -39,6 +43,12 @@ Sections in this list:
 #### National Bank of Ukraine (NBU)
 * [NBU Account for Humanitarian Assistance to Ukrainians Affected by Russia's Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 * [NBU Account for Ukraine's Armed Forces](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+
+## German or germany-based Organizations
+* [tagesschau.de (2022-03-03) 'Hilfe für die Menschen in der Ukraine'](https://www.tagesschau.de/spendenkonten/spendenkonten-133.html)
+    * overview of credible humanitarian aid charities
+    * source: 
+    * [Bündnis Entwicklung Hilft](https://entwicklung-hilft.de/) 
 
 ## Research Organizations
 * [TUM - support program of TUM scholarships for Ukrainians](https://www.tum.de/die-tum/aktuelles/pressemitteilungen/details/37215)
