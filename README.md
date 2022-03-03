@@ -3,17 +3,19 @@ The purpose of this list is to give clear overview how civilians from Germany an
 
 Listed here are references for both humanitarian and military aid. Please decide for yourself how you wish to support. This list is of informatory purpose alone, no intention of incending a debate on the kind of support is intended here.
 
-[--> Beschreibung der Liste auf deutsch](#beschreibung-auf-deutsch)
+[--> Informationen in deutscher Sprache siehe hier.](#beschreibung-auf-deutsch)
+
+#### What kind of support is needed now?
+State: 2022-03-03 
+It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now, the *on-site charities* can buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.
+Source: [mdr.de - 2022-03-03 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
+    * recommends finance donations instead of material donations
+    * warns to avoid dubious calls for donations in social media
 
 ## Guidelines on HOW to support
 * [bundesregierung.de - 'Humanitäre Hilfe für die Menschen aus der Ukraine' (2022-02-28)](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
 * [zdf.de - 'Spendenaufruf für die Ukraine' (2022-02-25)](https://www.zdf.de/service-und-hilfe/spendenaufruf-fuer-ukraine-100.html)
     * germany based humanitarian aid organizations active in Ukraine
-
-## Statements on the KIND of support
-* [mdr.de - 2022-03-03 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
-    * recommends finance donations instead of material donations
-    * warns to avoid dubious calls for donations in social media
 
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
