@@ -10,18 +10,21 @@ Listed here are references for both humanitarian and military aid, as well as ge
 [--> Research Organizations](#research-organizations)
 
 ## Guidelines on HOW to support
-* [bundesregierung.de - 'Humanitäre Hilfe für die Menschen aus der Ukraine' (2022-02-28)](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
-* [zdf.de - 'Spendenaufruf für die Ukraine' (2022-02-25)](https://www.zdf.de/service-und-hilfe/spendenaufruf-fuer-ukraine-100.html)
+* [bundesregierung.de (2022-02-28) - 'Humanitäre Hilfe für die Menschen aus der Ukraine'](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
+* [zdf.de (2022-02-25) - 'Spendenaufruf für die Ukraine'](https://www.zdf.de/service-und-hilfe/spendenaufruf-fuer-ukraine-100.html)
     * germany based humanitarian aid organizations active in Ukraine
+* [gov.uk (2022-03-02) - 'Regulators urge safe giving to support Ukraine'](https://www.gov.uk/government/news/regulators-urge-safe-giving-to-support-ukraine)
+    * recommends to check charities credibility on [official UK government website](https://www.gov.uk/find-charity-information)
+    * source: official UK government web presence
 
 ## Statements on the KIND of support
-* [mdr.de - 2022-03-03 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
+* [mdr.de (2022-03-03) - 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
     * recommends finance donations instead of material donations
     * warns to avoid dubious calls for donations in social media
-    * MDR is a public news outlet in Germany
-* [theconversation.com - 2022-03-03 - 'Why you should donate money rather than supplies'](https://theconversation.com/ukraine-crisis-why-you-should-donate-money-rather-than-supplies-178245)
+    * source: MDR is a publicly funded news outlet in Germany
+* [theconversation.com (2022-03-03) - 'Why you should donate money rather than supplies'](https://theconversation.com/ukraine-crisis-why-you-should-donate-money-rather-than-supplies-178245)
     * recommends finance donations instead of material donations
-    * theconversation.com are 'academics and journalists', based in Australia and other sides around the world
+    * source: theconversation.com are 'academics and journalists', based in Australia and other sides around the world
 
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
