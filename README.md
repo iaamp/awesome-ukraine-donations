@@ -7,7 +7,8 @@ Listed here are references for both humanitarian and military aid, as well as ge
 
 #### What kind of support is needed now?
 State: 2022-03-03 
-It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now (2022-03-03), the *on-site charities* can still buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.
+It is critical, that the support for Ukraine is effective, we emphasize that at the current state *monetary donations* are most needed in Ukraine. As of now (2022-03-03), the *on-site charities* can still buy the necesseties for refugees like medication etc. *locally in Ukraine*. Furthermore, in this hard time, it is a positive to support the Ukrainian economy this way as best as possible.  
+[--> official (via @Ukraine Twitter) statement on donations](https://twitter.com/Ukraine/status/1497294422354055171): donate money to support the Ukrainian Army. Either to [NBU Special Account for Ukraine's Armed Forces](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) or to the [Return Alive](https://savelife.in.ua/en/donate/) foundation  
 [--> Here the sources on the 'Statements on the KIND of support'](#statements-on-the-kind-of-support)  
 
 ---
@@ -39,13 +40,27 @@ Sections in this list:
     * recommends finance donations instead of material donations
     * source: theconversation.com are 'academics and journalists', based in Australia and other sides around the world
 
-## Open Questions (aka ToDos)
-* Is there an official statement of the Ukranian government on the type of help via donations they need?
-
 ## Official Ukrainian Organizations
+Here listed are accounts that are explicityly mentioned by an official Ukranian government department.
 #### National Bank of Ukraine (NBU)
 * [NBU Account for Humanitarian Assistance to Ukrainians Affected by Russia's Aggression](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi)
 * [NBU Account for Ukraine's Armed Forces](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+    * call for donations via [@Ukraine on Twitter](https://twitter.com/Ukraine/status/1497294422354055171)
+    * source: @Ukraine is the official Twitter account of Ukraine
+#### Return Alive Foundation
+* [The Return Alive Foundation Charitable Fund](https://savelife.in.ua/en/donate/)  
+* call for donations via [@Ukraine on Twitter](https://twitter.com/Ukraine/status/1497294422354055171)
+* source: @Ukraine is the official Twitter account of Ukraine
+#### Official Ukraine crypto account
+* the account accepts Bitcoin, Ethereum and USDT
+* call for donations via [@Ukraine on Twitter](https://twitter.com/Ukraine/status/1497594592438497282?s=20&t=aG5blzDGu1Pt14w9qZOIrw)
+* source: @Ukraine is the official Twitter account of Ukraine
+
+## Non-Government Ukrainian Organizations
+* [r/ukraine - Support for Ukraine: List of charities by subject](https://www.reddit.com/r/ukraine/comments/s6g5un/want_to_support_ukraine_heres_a_list_of_charities/)
+* [Hospitallers](https://www.facebook.com/hospitallers) is a 'volunteer paramedic organisation', founded in 2014, helping wounded combatants
+    * they call for financial and material (specified equipment, specified medicines) help
+    * source: facebook.com/hospitallers, referenced in [r/ukraine/ sticky post](https://www.reddit.com/r/ukraine/comments/t5okbs/welcome_to_rukraine_faq_do_dont_support_read/)
 
 ## German or germany-based Organizations
 * [tagesschau.de (2022-03-03) 'Hilfe für die Menschen in der Ukraine'](https://www.tagesschau.de/spendenkonten/spendenkonten-133.html)
