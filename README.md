@@ -6,12 +6,14 @@ Listed here are references for both humanitarian and military aid. Please decide
 [--> Beschreibung der Liste auf deutsch](#beschreibung-auf-deutsch)
 
 ## Guidelines on HOW to support
-* [bundesregierung.de - Humanitäre Hilfe für die Menschen aus der Ukraine](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
+* [bundesregierung.de - 'Humanitäre Hilfe für die Menschen aus der Ukraine' (2022-02-28)](https://www.bundesregierung.de/breg-de/suche/ukraine-humanitaere-hilfe-2008006)
+* [zdf.de - 'Spendenaufruf für die Ukraine' (2022-02-25)](https://www.zdf.de/service-und-hilfe/spendenaufruf-fuer-ukraine-100.html)
+    * germany based humanitarian aid organizations active in Ukraine
 
 ## Statements on the KIND of support
 * [mdr.de - 2022-03-03 'Welche Spenden jetzt besonders sinnvoll sind'](https://www.mdr.de/nachrichten/deutschland/gesellschaft/ukraine-geldspenden-sachspenden-hilfsorganisationen-100.html)
     * recommends finance donations instead of material donations
-    * avoid dubious calls for donations in social media
+    * warns to avoid dubious calls for donations in social media
 
 ## Official Ukrainian Organizations
 #### National Bank of Ukraine (NBU)
@@ -23,6 +25,8 @@ Listed here are references for both humanitarian and military aid. Please decide
 
 ## Beschreibung auf deutsch
 Diese Liste dient dazu, einen klaren Überblick zu verschaffen, wie Zivilpersonen die Ukraine und ihre Bürger durch Spenden unterstützen können. Die hier gelisteten Ressourcen sind nach dem besten Wissen der Autoren glaubwürdig. Außer Hilfe für die Ukraine in diesen schwierigen Zeiten wird mit dieser Liste keine weitere Agenda verfolgt.
+
+Es werden hier Ressourcen für sowohl humanitäre als auch militärische Hilfe aufgeführt. Bitte entscheiden Sie für sich selbst, welche Art der Hilfe sie leisten möchten. Diese Liste dient nur der Information, es besteht keine Absicht, eine Debatte über die Art der Hilfe zu entfachen.
 
 ## Related resources
 * [dkuznetsov/help-ukraine](https://github.com/dkuznetsov/help-ukraine) - A Curated List of Help Recepients - Organizations, Governments and Initiatives - for the People of Ukraine. Very similar to this list. Please take a look.
